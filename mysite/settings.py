@@ -25,7 +25,7 @@ SECRET_KEY = '@xrt(6)!epq3a^%kyfi@&23j3g4$ndx@i=x2t0o@#f(2d55#7)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<endonte.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'endonte.pythonanywhere.com']
 
 
 # Application definition
